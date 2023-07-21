@@ -20,3 +20,4 @@ public class Factorial_recursion {
 		}
 		
 }
+//find the factorial of a number using recursion
